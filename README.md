@@ -19,79 +19,33 @@
 - 🥇 **Java Programming Champion – 2024**  
 - 🥉 **Database Normalization – 2nd Runner-Up – 2025**
 
----
+### 🧰 Technologies & Tools (Icons Only)
 
-### 🧰 Technologies & Tools
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" />
 
-#### 🖌️ Frontend
-<div align="left" style="display:flex; flex-wrap: wrap; gap:15px;">
-  <div style="display:flex; flex-direction:column; align-items:center; background:#f06529; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-    <span>HTML5</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#264de4; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-    <span>CSS3</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#563d7c; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-    <span>Bootstrap</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#06b6d4; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-    <span>Tailwind</span>
-  </div>
-</div>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" />
 
-#### 🧠 Backend
-<div align="left" style="display:flex; flex-wrap: wrap; gap:15px; margin-top:15px;">
-  <div style="display:flex; flex-direction:column; align-items:center; background:#8892be; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-    <span>PHP</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#f55247; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" />
-    <span>Laravel</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#d22128; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" />
-    <span>Apache</span>
-  </div>
-</div>
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL Server"/>
 
-#### 🗄️ Databases
-<div align="left" style="display:flex; flex-wrap: wrap; gap:15px; margin-top:15px;">
-  <div style="display:flex; flex-direction:column; align-items:center; background:#00758f; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-    <span>MySQL</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#0064a5; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL Server"/>
-    <span>SQL Server</span>
-  </div>
-</div>
-
-#### 🛠️ Tools & IDEs
-<div align="left" style="display:flex; flex-wrap: wrap; gap:15px; margin-top:15px;">
-  <div style="display:flex; flex-direction:column; align-items:center; background:#24292e; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-    <span>GitHub</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#007acc; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-    <span>VS Code</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#21d789; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40" />
-    <span>PyCharm</span>
-  </div>
-  <div style="display:flex; flex-direction:column; align-items:center; background:#fb7e14; padding:10px; border-radius:8px; color:white; width:100px;">
-    <img src="https://img.icons8.com/fluency/48/000000/xampp.png" width="40" height="40" />
-    <span>XAMPP</span>
-  </div>
-</div>
+  <!-- Tools/IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40" alt="PyCharm" />
+  <img src="https://img.icons8.com/fluency/48/000000/xampp.png" width="40" height="40" alt="XAMPP" />
+</p>
 
 ---
+
 ### 📂 Featured Projects
 
 | Project Name                             | Stack     | Description |
