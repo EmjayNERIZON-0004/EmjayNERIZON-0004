@@ -1,4 +1,4 @@
-```markdown
+
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Emjay Nerizon</h1>
