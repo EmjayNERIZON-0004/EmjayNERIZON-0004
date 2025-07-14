@@ -35,12 +35,9 @@
 
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40" alt="SQL Server"/>
-
-  <!-- Tools/IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="40" height="40" alt="PyCharm" />
+ 
   <img src="https://img.icons8.com/fluency/48/000000/xampp.png" width="40" height="40" alt="XAMPP" />
 </p>
 
